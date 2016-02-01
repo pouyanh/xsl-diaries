@@ -1,2 +1,2 @@
-# xsl-diaries
-My Knowledge in XSLT 1.0
+# XSL Diaries
+I'm gonna show you how beautiful xslt 1.0 is
