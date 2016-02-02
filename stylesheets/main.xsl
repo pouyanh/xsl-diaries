@@ -5,6 +5,6 @@
 
 	<xsl:output method="xml" version="1.0" indent="yes"/>
 
-	<xsl:template metch="/">
+	<xsl:template match="/">
 	</xsl:template>
 <xsl:stylesheet>
